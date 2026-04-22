@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋 I'm Gyan Ram
 
-<!--
-**gyanram-dev/gyanram-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Computer Science student passionate about building real skills in **AI/ML** and **Python**.
 
-Here are some ideas to get you started:
+🚀 Currently focused on learning, building projects, and becoming a strong AI Engineer through consistent execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+* Pandas
+* Machine Learning
+* Scikit-learn
+* Problem Solving
+
+## 🔭 Current Projects
+
+* Titanic Survival Prediction
+* Friday AI Assistant
+
+## 🛠️ Tech Stack
+
+* Python
+* NumPy
+* Pandas
+* Git & GitHub
+* Linux
+* VS Code
+
+## 🎯 Goals for 2026
+
+* Build 5 solid AI/ML projects
+* Strengthen Python fundamentals
+* Grow GitHub consistently
+* Land valuable internship experience
+
+## 📫 Connect With Me
+
+LinkedIn: [www.linkedin.com/in/gyan-ram-b733903ab](http://www.linkedin.com/in/gyan-ram-b733903ab)
+
+## ⚡ Mindset
+
+Learn daily. Build consistently. Grow forever.
+
